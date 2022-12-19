@@ -1,6 +1,6 @@
 # ChargeNow
 
-> Chargebee is a subscription management system which can help you handle all the aspects of the subscription life cycle including recurring billing, invoicing and trial management for your customers.
+> ChargeNow is a subscription management system which can help you handle all the aspects of the subscription life cycle including recurring billing, invoicing and trial management for your customers.
 
 ## Built With
 
